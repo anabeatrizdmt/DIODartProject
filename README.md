@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# DIO Dart Project: BMI Calculator
+
+Simple BMI calculator using users input.
